@@ -1,19 +1,49 @@
-li {
-  background: #FAEBD7;
-  margin: 5px;
-  padding: 5px;
+body {
+	background: gold;
 }
 
-.label {
-  font-weight: bold;
+img {
+	display: block;
+    margin: auto;
+}
+
+h2 {
+	margin-top: 5px;
+	color: darkred;
+	text-align: center;
+}
+
+#burger-list {
+	padding-left: 400px;
+}
+
+#devour-list {
+	padding-left: 650px;
+}
+
+li {
+	text-align: center;
+	background: white;
+	margin: 5px;
+	padding: 5px;
+	width: 200px;
 }
 
 .create-update-form {
-  background: aqua;
-  margin: 5px;
-  padding: 5px;
+	text-align: center;
+	margin: 5px;
+	padding: 5px;
 }
 
 .form-group {
-  margin-bottom: 5px;
+	margin-bottom: 5px;
+}
+
+#bu {
+	width: 300px;
+}
+
+h4 {
+	margin-top: 5px;
+	text-align: center;
 }
