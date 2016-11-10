@@ -14,16 +14,24 @@ h2 {
 }
 
 #burger-list {
-	padding-left: 400px;
+	margin-left: 350px;
 }
 
 #devour-list {
-	padding-left: 650px;
+	margin-left: 600px;
 }
 
-li {
+#burger-li {
 	text-align: center;
 	background: white;
+	margin: 5px;
+	padding: 5px;
+	width: 200px;
+}
+
+#devour-li {
+	text-align: center;
+	background: lightgray;
 	margin: 5px;
 	padding: 5px;
 	width: 200px;
